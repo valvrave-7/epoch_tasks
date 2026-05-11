@@ -30,7 +30,7 @@ This observation is visible because:
 - Points occupy a wider area
 - Spacing is larger
 
-5. Presence of outliers
+4. Presence of outliers
 
 A few isolated points are visible near:
 - Longitude ~80
@@ -45,7 +45,7 @@ These outliers may represent:
 K-Means still assigns these points to the nearest cluster even if they are geographically distant.
 
 
-6. Cluster centroids represent regional centers
+5. Cluster centroids represent regional centers
 
 The black “X” markers represent cluster centroids.
 Each centroid represents the mean coordinate position of all points in that cluster.
